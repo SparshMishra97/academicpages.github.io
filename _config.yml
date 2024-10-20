@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Sparsh Mishra"
   pronouns         : # example: "she/her"  
-  bio              : "checking stuff"
-  location         : "Earth"
+  bio              : "Physics graduate student at UT Austin"
+  location         : "Austin, Texas, USA"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
