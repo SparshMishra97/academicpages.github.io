@@ -55,9 +55,6 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   * Spring 2023: Teaching Assistant
     * General Physics I, Classical physics for non-physics majors,  University of Texas at Austin
   * Fall 2021 - Spring 2022: Teaching Assistant
