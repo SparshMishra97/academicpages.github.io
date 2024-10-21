@@ -58,6 +58,7 @@ Teaching
     * 105N, Laboratory for Electricity and Magnetism for Non-Physics majors,  University of Texas at Austin
   * Summer 2022: Teaching Assistant
     * Engineering Physics II, Electricity and Magnetism for Engineering majors,  University of Texas at Austin
+    
 Service and leadership
 ======
 *
