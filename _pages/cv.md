@@ -11,26 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics , University of Texas at Austin, 2024 (in progress)
+  * Ph.D supervisor: Prof. Allan H. MacDonald
+* M.Sc. in Physics, Nagoya University, Japan, 2021
+  * Thesis supervisor: Prof. Akito Kobayashi
+* B.E. in Applied Physics, Nagoya University, Japan, 2019
+  * Thesis supervisor: Prof. Yukio Tanaka
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2023 - Fall 2024: Graduate Research Assistant
+  * University of Texas at Austin
+  * Supervisor: Prof. Allan H. Macdonald
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2023: Teaching Assistant
+  * General Physics I, Classical physics for non-physics majors,  University of Texas at Austin
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2023: Graduate Research Assistant
+  * University of Texas at Austin 
+  * Supervisor: Prof. Eslam Khalaf
+
+* Summer 2022: Teaching Assistant
+  * Engineering Physics II, Electricity and Magnetism for Engineering majors,  University of Texas at Austin
+
+* Fall 2021 - Spring 2022: Teaching Assistant
+  * 105N, Laboratory for Electricity and Magnetism for Non-Physics majors,  University of Texas at Austin
   
 Skills
 ======
