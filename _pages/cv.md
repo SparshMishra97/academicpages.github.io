@@ -34,8 +34,7 @@ Work experience
 * Summer 2022: Teaching Assistant
   * Engineering Physics II, Electricity and Magnetism for Engineering majors,  University of Texas at Austin
 
-* Fall 2021 - Spring 2022: Teaching Assistant
-  * 105N, Laboratory for Electricity and Magnetism for Non-Physics majors,  University of Texas at Austin
+
   
 Skills
 ======
@@ -63,7 +62,8 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+  * Fall 2021 - Spring 2022: Teaching Assistant
+    * 105N, Laboratory for Electricity and Magnetism for Non-Physics majors,  University of Texas at Austin
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
