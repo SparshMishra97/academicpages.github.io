@@ -28,13 +28,13 @@ author:
   location         : "Austin, Texas, USA"
   employer         : "University of Texas at Austin"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sparsh. at. example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=XLZW4zYAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-3111-1339"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -79,8 +79,8 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  #conferences:
+    #title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
