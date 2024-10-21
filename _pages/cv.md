@@ -20,11 +20,11 @@ Education
 
 Work experience
 ======
-* Fall 2023 - Fall 2024: Graduate Research Assistant
+* Spring 2024 - Fall 2024: Graduate Research Assistant
   * University of Texas at Austin
   * Supervisor: Prof. Allan H. Macdonald
 
-* Fall 2023: Graduate Research Assistant
+* Fall 2022, Summer 2023: Graduate Research Assistant
   * University of Texas at Austin 
   * Supervisor: Prof. Eslam Khalaf
 
@@ -52,13 +52,16 @@ Talks
   
 Teaching
 ======
-  * Spring 2023: Teaching Assistant
-    * General Physics I, Classical physics for non-physics majors,  University of Texas at Austin
-  * Fall 2021 - Spring 2022: Teaching Assistant
-    * 105N, Laboratory for Electricity and Magnetism for Non-Physics majors,  University of Texas at Austin
+  * Fall 2023: Teaching Assistant
+    * General Physics I, Classical Mechanics for non-physics majors,  University of Texas at Austin
+
   * Summer 2022: Teaching Assistant
     * Engineering Physics II, Electricity and Magnetism for Engineering majors,  University of Texas at Austin
-    
+
+  * Fall 2021 - Spring 2022: Teaching Assistant
+    * 105N, Laboratory for Electricity and Magnetism for Non-Physics majors,  University of Texas at Austin
+
+
 Service and leadership
 ======
 *
