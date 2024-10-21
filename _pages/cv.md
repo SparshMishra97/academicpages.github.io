@@ -24,15 +24,11 @@ Work experience
   * University of Texas at Austin
   * Supervisor: Prof. Allan H. Macdonald
 
-* Spring 2023: Teaching Assistant
-  * General Physics I, Classical physics for non-physics majors,  University of Texas at Austin
-
 * Fall 2023: Graduate Research Assistant
   * University of Texas at Austin 
   * Supervisor: Prof. Eslam Khalaf
 
-* Summer 2022: Teaching Assistant
-  * Engineering Physics II, Electricity and Magnetism for Engineering majors,  University of Texas at Austin
+
 
 
   
@@ -62,9 +58,12 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  * Spring 2023: Teaching Assistant
+    * General Physics I, Classical physics for non-physics majors,  University of Texas at Austin
   * Fall 2021 - Spring 2022: Teaching Assistant
     * 105N, Laboratory for Electricity and Magnetism for Non-Physics majors,  University of Texas at Austin
-    
+  * Summer 2022: Teaching Assistant
+    * Engineering Physics II, Electricity and Magnetism for Engineering majors,  University of Texas at Austin
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
