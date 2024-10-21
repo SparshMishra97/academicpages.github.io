@@ -28,9 +28,6 @@ Work experience
   * University of Texas at Austin 
   * Supervisor: Prof. Eslam Khalaf
 
-
-
-
   
 Skills
 ======
