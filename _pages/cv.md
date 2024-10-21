@@ -64,6 +64,7 @@ Teaching
   {% endfor %}</ul>
   * Fall 2021 - Spring 2022: Teaching Assistant
     * 105N, Laboratory for Electricity and Magnetism for Non-Physics majors,  University of Texas at Austin
+    
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
