@@ -60,4 +60,4 @@ Teaching
     * Engineering Physics II, Electricity and Magnetism for Engineering majors,  University of Texas at Austin
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+*
